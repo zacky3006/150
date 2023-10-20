@@ -7,6 +7,7 @@
 
 .red-text {
     color: red;
+    height: 100px;
 }
 
 .font-bold {
@@ -22,10 +23,10 @@
 }
 
 .big {
-    font-size: 64px;
+    font-size: 32px;
 }
 
 .container {
     border: 2px blue solid;
-    padding: 25px 100px;
+    text-align: center;
 }
