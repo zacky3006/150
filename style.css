@@ -1,0 +1,31 @@
+#webhead {
+    font-size: 32px;
+    color: aqua;
+    text-align: center;
+    font-weight: 800;
+}
+
+.red-text {
+    color: red;
+}
+
+.font-bold {
+    font-weight: 800;
+}
+
+#second {
+    border: 2px red solid;
+    padding: 50px 25px;
+    margin: 50px 0px;
+    display: inline-block;
+    width: 300px;
+}
+
+.big {
+    font-size: 64px;
+}
+
+.container {
+    border: 2px blue solid;
+    padding: 25px 100px;
+}
